@@ -3,4 +3,4 @@ THE DATASET: Contains information on 3,000 transactions made by 2,578 unique cus
 
 THE AIM: Analyze the transaction data of an online sales company and to segment customers using clustering techniques, in order to provide useful insights for the marketing department. The segmentation will allow the identification of customer groups with similar purchasing behaviors, enabling the development of targeted marketing strategies.
 
-METODOLOGY USED: Cluster analysis (K-means)
+METODOLOGY USED: Cluster analysis (K-means).
